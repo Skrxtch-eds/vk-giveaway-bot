@@ -1,0 +1,9 @@
+services:
+  bot:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    volumes:
+      - ./config.local.json:/app/config.local.json:ro
+      - ./data:/app/data
+    stop_grace_period: 35s

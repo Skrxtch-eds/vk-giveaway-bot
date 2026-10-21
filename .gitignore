@@ -1,0 +1,10 @@
+.env
+data/
+exports/
+backups/
+config.local.json
+config.demo.json
+__pycache__/
+*.py[cod]
+.venv/
+*.log

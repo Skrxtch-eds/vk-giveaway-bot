@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480">
+  <rect width="1200" height="480" rx="28" fill="#121527"/>
+  <circle cx="1110" cy="100" r="210" fill="#1c2340"/>
+  <circle cx="1095" cy="437" r="160" fill="#1c2340"/>
+  <rect x="60" y="48" width="330" height="42" rx="21" fill="#efff67"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="82" y="76" font-size="18" font-weight="700" fill="#121527">ФЕСТИВАЛЬНЫЙ ПРОПУСК</text>
+    <text x="60" y="170" font-size="40" fill="#f7f7fb">Добро пожаловать в</text>
+    <text x="56" y="254" font-size="70" font-weight="700" fill="#f7f7fb">Бот розыгрышей</text>
+    <text x="62" y="326" font-size="26" fill="#efff67">10 дней · партнеры · призы</text>
+    <text x="62" y="420" font-size="19" fill="#aeb6d2">Каждый активный день — шанс на главный приз</text>
+  </g>
+  <g transform="translate(920 150) rotate(12 100 85)">
+    <rect x="0" y="0" width="215" height="160" rx="22" fill="#efff67"/>
+    <circle cx="0" cy="80" r="20" fill="#1c2340"/>
+    <circle cx="215" cy="80" r="20" fill="#1c2340"/>
+    <path d="M158 12V148" stroke="#121527" stroke-width="2" stroke-dasharray="7 8"/>
+    <path d="M78 34L91 64L124 68L100 91L106 124L78 108L48 124L55 91L30 68L65 64Z" fill="#121527"/>
+  </g>
+  <path d="M1052 61V91M1037 76H1067M888 354V378M876 366H900" stroke="#efff67" stroke-width="4" stroke-linecap="round"/>
+</svg>

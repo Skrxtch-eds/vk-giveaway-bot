@@ -1,0 +1,4 @@
+*
+!giveaway/
+!giveaway/**
+giveaway/**/__pycache__/
